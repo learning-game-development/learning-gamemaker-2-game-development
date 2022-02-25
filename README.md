@@ -9,7 +9,7 @@ Projects, samples and templates created to learn game development with the Game 
 
 ### Game Maker: Studio Tutorials
 
-TODO
+1. :heavy_check_mark: [Making Your First Game Using Drag and Drop with Josia Roncancio](parking-panic/) -- Workshops (Parking Panic)
 
 ## :page_with_curl: License
 
