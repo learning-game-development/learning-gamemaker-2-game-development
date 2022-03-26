@@ -35,7 +35,7 @@
     "spriteId": {"name":"spr_car_up","path":"sprites/spr_car_up/spr_car_up.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 30.0,
+    "playbackSpeed": 3.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
