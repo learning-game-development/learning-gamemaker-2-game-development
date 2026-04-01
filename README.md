@@ -13,7 +13,7 @@ Projects, samples and templates created to learn game development with the Game 
 
 ### Zenva Game Development Courses
 
-1. :o: [GameMaker 101 – 2D Game Development](intro-to-gamemaker/)
+1. :heavy_check_mark: [GameMaker 101 – 2D Game Development](intro-to-gamemaker/)
 
 ## :page_with_curl: License
 
